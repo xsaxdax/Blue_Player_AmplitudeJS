@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
-import Player from './Player';
+// import App from './App';
+import Player from './Player'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

@@ -72,7 +72,7 @@ Amplitude.init({
 		{
 			"name": "Jamaica",
 			"artist": "Articon",
-			"url": "http://articon-music.com/Articon_-_jamajka_raj.mp3"
+			"url": "http://articon-music.com/28.mp3"
 		}
 	],
  //just for debugging reasons
