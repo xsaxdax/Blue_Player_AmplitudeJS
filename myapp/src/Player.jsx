@@ -134,8 +134,8 @@ export default function Container(props) {
                             <img class="now-playing" src="./img/now-playing.svg" />
                         </div>
                         <div class="song-meta-data">
-                            <span class="song-title">{ state.getSongs()[1].name}</span>
-                            <span class="song-artist">{ state.getSongs()[1].artist} {/*Amplitude.getSongs()[1].artist*/}</span>
+                            <span class="song-title">{ /*state.getSongs()[1].name*/}</span>
+                            <span class="song-artist">{/* state.getSongs()[1].artist} {/*Amplitude.getSongs()[1].artist*/}</span>
                         </div>
                         <a href="http://articon-music.com/28.mp3" class="bandcamp-link" target="_blank" rel="noreferrer">
                             <img class="bandcamp-grey" src="./img/bandcamp-grey.svg" />
