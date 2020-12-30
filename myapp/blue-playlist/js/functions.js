@@ -61,6 +61,7 @@ for( var i = 0; i < songElements.length; i++ ){
 // eslint-disable-next-line no-undef
 Amplitude.init({
   "songs": [
+	  
     {
       "name": "Risin' High (feat Raashan Ahmad)",
       "artist": "Ancient Astronauts",
