@@ -1,22 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>AmplitudeJS Testing</title>
-
-   <!-- Include Amplitude JS -->
-   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@latest/dist/amplitude.js"></script>
+  <title>Articon</title>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@latest/dist/amplitude.js"></script>
    <meta charset="utf-8" />
    
    <meta content="width=device-width, initial-scale=1" name="viewport" />
 
    <!-- Include Style Sheet -->
    <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+/>
   <link rel="stylesheet" type="text/css" href="css/app.css" />
- 
-</head>
+ </head>
 <body>
   <!-- Blue Playlist Container -->
   <div id="blue-playlist-container">
