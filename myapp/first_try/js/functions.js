@@ -10,6 +10,15 @@ for( var i = 0; i < bandcampLinks.length; i++ ){
   });
 }
 
+fetch('http://articon-music.com/songs.json')
+  .then((response) => {
+    console.log(response.data);
+    //console.log(response.status);
+    //console.log(response.statusText);
+    console.log(response.headers);
+    //console.log(response.config);
+  })
+//console.log(song_data); 
 
 let songElements = document.getElementsByClassName('song');
 
