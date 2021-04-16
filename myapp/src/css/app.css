@@ -370,9 +370,9 @@ div#control-container {
         cursor: pointer;
         float: left; }
         div#control-container div#central-control-container div#central-controls div#play-pause.amplitude-paused {
-          background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/play.svg"); }
+          background: url("../img/play.svg"); }
         div#control-container div#central-control-container div#central-controls div#play-pause.amplitude-playing {
-          background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/pause.svg"); }
+          background: url("../img/pause.svg"); }
       div#control-container div#central-control-container div#central-controls div#next {
         display: inline-block;
         width: 40px;
@@ -402,7 +402,7 @@ div#control-container {
     height: 19px;
     float: left; }
     div#control-container div.amplitude-mute.amplitude-not-muted {
-      background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-players/volume.svg");
+      background: url("../img/volume.svg");
       background-repeat: no-repeat; }
     div#control-container div.amplitude-mute.amplitude-muted {
       background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/mute.svg");
